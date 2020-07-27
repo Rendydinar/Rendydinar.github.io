@@ -4,7 +4,6 @@ module.exports = {
     description: `RendyDinar Personal Web Page`,
     author: `@r3ndydinar`,
   },
-  pathPrefix: "/",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
@@ -42,7 +41,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
         options: {
-          trackingId: 'UA-163927086-1',
+          trackingId: 'UA-168773288-1',
         }
     },
     {
