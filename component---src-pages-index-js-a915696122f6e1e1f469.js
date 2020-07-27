@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{RXBc:function(e,l,n){"use strict";n.r(l);var a=n("q1tI"),t=n.n(a),r=n("Wbzz"),i=n("Bl7J"),o=n("vrFN");l.default=function(){return t.a.createElement(i.a,null,t.a.createElement(o.a,{title:"Home"}),t.a.createElement("h1",null,"Hello"),t.a.createElement("h2",null,"I'm Rendy dinar, living on beautiful island marapu village"),t.a.createElement("p",null,"Need a developer ? ",t.a.createElement(r.Link,{to:"/blog"},"blog")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a915696122f6e1e1f469.js.map
