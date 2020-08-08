@@ -2,8 +2,6 @@ import { Link, graphql, useStaticQuery } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-// import './header.module.scss'
-
 import headerStyles from './header.module.scss'
 
 const Header = ({ siteTitle }) => {
@@ -37,6 +35,9 @@ const Header = ({ siteTitle }) => {
           </li>
           <li>
             <Link className={headerStyles.navItem}  activeClassName={headerStyles.activeNavItem} to="/contact">Contact</Link>
+          </li>
+          <li>
+            <Link className={headerStyles.navItem}  activeClassName={headerStyles.activeNavItem} to="/me">Portofolio</Link>
           </li>
         </ul>
       </nav>
